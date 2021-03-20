@@ -5,7 +5,7 @@
 ### Instructions
 
 - Download this folder to a local directory
-- Open Chrome and navigate to the [Chrome Extensions Page](chrome://extensions)
+- Open Chrome and navigate to `chrome://extensions`
 - Turn on developer mode by ticking the option on the top-right corner of the page
 - Click "Load Unpacked" and upload the directory you just created
 - Navigate to [Google](https://www.google.com)
